@@ -7,11 +7,11 @@ Celcius scale thermometer and percentage scale humidity meter displays the ambie
 on ThingSpeak Server for live monitoring from anywhere in the world.
 
 2>Required Component:-
-Arduino Uno
-DHT11
-ESP8266 Wi-Fi Module
-Jumper Wires
-Breadboard
+1-Arduino Uno
+2-DHT11
+3-ESP8266 Wi-Fi Module
+4-Jumper Wires
+5-Breadboard
 
 3>Circuit-Diagram:-
 
