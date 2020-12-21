@@ -1,6 +1,6 @@
-#Temperature_Humidity_project
+# Temperature_Humidity_project
 
-##Description:-
+## Description:-
 In this project,the current humidity and temperature data is shown over the internet using the ThingSpeak Server.
 It is accomplished by the data communication between Arduino,DHT11 Sensor Module,ESP8266 Wi-Fi Module.
 Celcius scale thermometer and percentage scale humidity meter displays the ambient temperature and humidity
