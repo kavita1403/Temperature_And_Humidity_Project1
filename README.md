@@ -16,7 +16,7 @@ on ThingSpeak Server for live monitoring from anywhere in the world.
 ## Circuit-Diagram:-
 
 <img src="https://lh3.googleusercontent.com/Gf6gDP9fea6isB4Ck6l-gIf0AqQ7QmVQ-afXxsRknJ2hjWtZfYtm7TFuOafjMphxXfqP3xc=s113">
-<img src="https://web.whatsapp.com/fbd156c1-9284-4b3e-8d28-4c9347edd2ee">
+<img src="https://lh3.googleusercontent.com/H3xmtaU9vDSjnEorhKYukTh59-ThRdpbCXqvHvdl9Kk3PEnYJZ_IldAFLSRvhympT9OFNw=s126">
 
 
 
