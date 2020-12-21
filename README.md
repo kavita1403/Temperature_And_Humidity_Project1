@@ -1,4 +1,4 @@
-# Temperature_Humidity_project
+# Temperature_Humidity_Monitoring
 
 ## Description:-
 In this project,the current humidity and temperature data is shown over the internet using the ThingSpeak Server.
