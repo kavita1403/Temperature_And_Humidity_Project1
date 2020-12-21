@@ -14,7 +14,8 @@ on ThingSpeak Server for live monitoring from anywhere in the world.
 * Breadboard
 
 ## Circuit-Diagram:-
-<img src="blob:https://web.whatsapp.com/5f756fc3-7843-4ee9-acaf-75a068dc8830">
+
+<img src="https://lh3.googleusercontent.com/Gf6gDP9fea6isB4Ck6l-gIf0AqQ7QmVQ-afXxsRknJ2hjWtZfYtm7TFuOafjMphxXfqP3xc=s113">
 
 
 
