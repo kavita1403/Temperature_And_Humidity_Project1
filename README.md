@@ -14,7 +14,7 @@ on ThingSpeak Server for live monitoring from anywhere in the world.
 * Breadboard
 
 ## Circuit-Diagram:-
-<img src="C:\Users\pcm1\Pictures\Screenshots\WhatsApp Image 2020-12-21 at 4.51.22 PM (2).jpeg">
+<img src="blob:https://web.whatsapp.com/5f756fc3-7843-4ee9-acaf-75a068dc8830">
 
 
 
